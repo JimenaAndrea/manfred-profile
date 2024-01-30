@@ -1,0 +1,280 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jimena",
+      "surnames": "Andrea C.",
+      "title": "React Native Developer | UX/UI",
+      "description": "Trabajo para aportar valor a otras personas. Me gusta hacer las cosas bien y me preocupo por cada detalle. Tengo experiencia y disfruto trabajando en equipo, siempre dispuesta a aprender y a ayudar.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/7a111306-37ca-4829-a107-8048f58bd936_linkedin-photo-5308.linkedin-photo-5308",
+        "alt": "24/01/30/7a111306-37ca-4829-a107-8048f58bd936_linkedin-photo-5308.linkedin-photo-5308"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJf9xU_VsmRA0Ry6meRLXa1oM)",
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Aranda de Duero"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Soy voluntaria",
+        "fact": "En 2018 empecé mi voluntariado en la tienda de Comercio Justo de Oxfam Intermón en Valladolid. Allí he realizado labores de atención al cliente, preparación de eventos y mercadillos, gestión de nuevos voluntarios y búsqueda de clientes para el servicio de Cash and Carry. Actualmente me encargo de la gestión de redes sociales y la creación de contenido."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "freeCodeCamp",
+        "type": "other",
+        "URL": "https://www.freecodecamp.org/",
+        "authors": [
+          {
+            "name": "Quincy",
+            "surnames": "Larson",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jimena-andrea"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/JimenaAndrea"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Z1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/fb398fa0-8982-4863-83d5-dff3b7b97e83_linkedin-photo-5308.linkedin-photo-5308",
+            "alt": "24/01/30/fb398fa0-8982-4863-83d5-dff3b7b97e83_linkedin-photo-5308.linkedin-photo-5308"
+          }
+        },
+        "roles": [
+          {
+            "name": "React Native Developer",
+            "startDate": "2022-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alcuadrado Blockchain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/0d2bebb1-3507-4342-8832-5e780749e34b_linkedin-photo-5308.linkedin-photo-5308",
+            "alt": "24/01/30/0d2bebb1-3507-4342-8832-5e780749e34b_linkedin-photo-5308.linkedin-photo-5308"
+          }
+        },
+        "roles": [
+          {
+            "name": "React Native Developer and UX and UI Designer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Skills: React Native · Diseño de experiencia de usuario (UX) · Diseño de la interfaz de usuario"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Goaliath",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/f7dcb1c5-efc5-4139-8c23-fd1dae5e2313_linkedin-photo-5308.linkedin-photo-5308",
+            "alt": "24/01/30/f7dcb1c5-efc5-4139-8c23-fd1dae5e2313_linkedin-photo-5308.linkedin-photo-5308"
+          }
+        },
+        "roles": [
+          {
+            "name": "Cofundadora / Desarrolladora React Native / Diseñadora",
+            "startDate": "2021-01-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Front End Development Libraries",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "URL": "https://www.freecodecamp.org/learn/front-end-development-libraries/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jimena-andrea",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/JimenaAndrea",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jimenaa971@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Figma",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Mobile Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Figma",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "React Native",
+        "type": "technology"
+      },
+      {
+        "name": "Styled Components",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "freeCodeCamp"
+      }
+    ]
+  }
+}
